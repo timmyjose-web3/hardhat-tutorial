@@ -1,0 +1,1 @@
+The Hardhat tutorial from scratch (https://hardhat.org/tutorial).
